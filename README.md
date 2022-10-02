@@ -5,6 +5,9 @@
 Mobile friendly horizontal menu - on wide enough screens it shows all the menu items side-by-side, but once the screen (window width) is not able to show all the menu items, dropdown button is show.
 You can assign a priority to each menu item - menu item with the lowest priority will be hidden first.
 
+## WARNING
+This package is no longer maintained!
+
 ## Install
 Compatibility
 ------------------------------------------------------------------------------
